@@ -40,3 +40,5 @@ int main(int argc, char** argv)//estructura principal del programa
     glutMainLoop();
     return 0;
 }
+
+// este es un comentario nuevo
